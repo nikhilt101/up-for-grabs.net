@@ -1,0 +1,12 @@
+name: Vigil
+desc: Open-source observability stack for teams at scale — Prometheus, Grafana, Jaeger & Loki pre-wired and production-ready. Cut APM costs by 90% vs Datadog.
+site: https://github.com/nikhilt101/Vigil
+tags:
+  - devops
+  - observability
+  - prometheus
+  - grafana
+  - docker
+upforgrabs:
+  name: good first issue
+  link: https://github.com/nikhilt101/Vigil/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22
